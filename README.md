@@ -1,0 +1,2 @@
+# premium-shoe-forge-001-horseshoe-forging-heat-and-sha
+Tired of inconsistent heats ruining your shoes? Track every forging variable with precision—from soak time to hammer blow count—so you can replicate your best work every time.  This Notion template solves the problem of lost knowledge and guesswork in horseshoe forging. It provides a structured log for documenting heat cycles, shaping sequences, an
